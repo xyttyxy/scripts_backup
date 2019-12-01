@@ -1,0 +1,4 @@
+#!/home/xyttyxyx/python/python3.7.0/bin/python3.7
+from utilities.analysis import check_convergence
+
+check_convergence()
